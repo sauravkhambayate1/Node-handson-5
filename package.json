@@ -1,0 +1,18 @@
+{
+  "name": "node-handson-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Node handson 5",
+  "license": "ISC",
+  "dependencies": {
+    "constant": "^1.0.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1"
+  }
+}
